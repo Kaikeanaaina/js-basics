@@ -29,6 +29,8 @@ var canDrive = (person.age >= 16);
  * (there are 6 different data types);
  */
 
+var dataTypes = ["string",21, true, person,[7,8,9], undefined,null];
+
 /* Create a Dog object
  * it should have a `bark` function that makes your dog bark!
  * It should also have a name attribute with the value of 'Spot'
